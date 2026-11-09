@@ -1,0 +1,10 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define DEFAULT_PORT 8080
+#define DEFAULT_WORKERS 4
+#define MAX_REQUEST 16384
+#define RESPONSE_BUFFER 8192
+#define FILE_BUFFER 65536
+
+#endif
